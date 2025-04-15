@@ -1,0 +1,26 @@
+{
+    "inputs": {
+        "firstname": "Paulo QA",
+        "lastname": "Rocha",
+        "company": "Icaro",
+        "address": "Rua Street",
+        "address2": "Rua Street 2",
+        "country": "India",
+        "state": "Pernambuco",
+        "city": "Recife",
+        "zipcode": "52100200",
+        "mobilenumber": "81999999999"
+    },
+    "elements": {
+        "firstname": "#first_name",
+        "lastname": "#last_name",
+        "company": "#company",
+        "address": "#address1",
+        "address2": "#address2",
+        "country": "#country",
+        "state": "#state",
+        "city": "#city",
+        "zipcode": "#zipcode",
+        "mobilenumber": "#mobile_number"
+    }
+}

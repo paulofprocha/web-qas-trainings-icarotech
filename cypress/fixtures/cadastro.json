@@ -1,0 +1,21 @@
+{
+    "inputs": {
+        "name": "Paulo QA",
+        "email": "pauloqa@email.com",
+        "password": "123ABC",
+        "days": "10",
+        "months": "June",
+        "years": "1992"
+    },
+    "elements": {
+        "title": "#id_gender1",
+        "name": "#name",
+        "email": "#email",
+        "password": "#password",
+        "days": "#days",
+        "months": "#months",
+        "years": "#years",
+        "newsletter": "#newsletter",
+        "offers": "#optin"
+    }
+}
